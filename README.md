@@ -1,6 +1,11 @@
 <h1 align="center">✯ Aha! API ✯</h1>
 
-<p align="center">  <b>Its a Aha Platforn API It Will get All data in json with Streamable Links </b> <br><br><b> 🌟 Start This Repositry Befor Copying 😎</b></p>
+<p align="center">  <b>Its a Aha Platforn API It Will get All data in json with Streamable Links </b> <br><br><b> 🌟 Start This Repositry Befor Copying 😎</b></p><br>
+
+> ***🚸 This is Just For Educational Purpose*** <br>
+> ***☺ If This Out of Your Policy Contact me***
+
+<br>
 
 ## How To Use :
 
